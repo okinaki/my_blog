@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../my_projects/Cryptocurrencies/.idea/Cryptocurrencies.iml" filepath="$PROJECT_DIR$/../../my_projects/Cryptocurrencies/.idea/Cryptocurrencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/my_blog.iml" filepath="$PROJECT_DIR$/.idea/my_blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../fastapi projects/todoapp2/.idea/todoapp2.iml" filepath="$PROJECT_DIR$/../../fastapi projects/todoapp2/.idea/todoapp2.iml" />
+    </modules>
+  </component>
+</project>
